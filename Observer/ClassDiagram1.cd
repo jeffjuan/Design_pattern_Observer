@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Observer.AbstractMember" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAAAAAAAAAAAAABAAAAAQAAAAAAAEAAAAAAAEAAAA=</HashCode>
+      <FileName>AbstractMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.CharacterBear" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>CharacterBear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.CharacterJames" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>CharacterJames.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.Controller">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.ControllerEventArgs">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>ControllerEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.Form1" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAElgAACAAABIAQACAAABKIggKAAAQAAABAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
