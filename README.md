@@ -6,4 +6,4 @@
 Windows Forms C#
 * __如何使用__  
     * 下載zip，解壓縮。
-    * 
+    * 執行 Oberserver.exe ( 位置：\Observer\bin\Debug\Oberserver.exe )
